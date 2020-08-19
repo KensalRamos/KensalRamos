@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on FitnessTracker, a full-stack android application.
 - 🌱 I’m currently learning how to apply undergraduate knowledge to big projects.
 - 👯 I’m looking to collaborate on anything that sounds fun so please let me know!
