@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on FitnessTracker, a full-stack android application.
+- 🔭 I’m currently working on AccountabilityChat, a full-stack android application.
 - 🌱 I’m currently learning how to apply undergraduate knowledge to big projects.
 - 👯 I’m looking to collaborate on anything that sounds fun so please let me know!
 - 🤔 I’m looking for help with FitnessTracker, the more the merrier!
