@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AccountabilityChat, a full-stack android application.
 - 🌱 I’m currently learning how to apply undergraduate knowledge to big projects.
 - 👯 I’m looking to collaborate on anything that sounds fun so please let me know!
 - 🤔 Incoming SWE Intern at Facebook!
